@@ -1,0 +1,10 @@
+.*
+!/.gitignore
+training/
+**/spark-warehouse
+bigdata/target/
+bigdata/project/*
+!bigdata/project/build.properties
+!bigdata/project/plugins.sbt
+mimic/target/
+mimic/project/*
